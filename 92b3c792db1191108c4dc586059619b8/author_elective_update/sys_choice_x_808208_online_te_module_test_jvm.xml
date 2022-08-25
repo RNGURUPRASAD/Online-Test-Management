@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="jvm" table="x_808208_online_te_module_test" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>jvm</element>
+            <name>x_808208_online_te_module_test</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:36</sys_created_on>
+            <sys_id>c516ef28dbe151108c4dc586059619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>jvm</sys_name>
+            <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+            <sys_update_name>sys_choice_x_808208_online_te_module_test_jvm</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:36</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>jvm</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Vizualize Machine</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8116ef28dbe151108c4dc586059619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:36</sys_updated_on>
+            <value>java vizualize machine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>jvm</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Vertical Machine</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d16ef28dbe151108c4dc586059619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:36</sys_updated_on>
+            <value>java vertical machine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>jvm</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Void Machine</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8916ef28dbe151108c4dc586059619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:36</sys_updated_on>
+            <value>java void machine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>jvm</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Virtual Machine</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0916ef28dbe151108c4dc586059619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:36</sys_updated_on>
+            <value>java virtual machine</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

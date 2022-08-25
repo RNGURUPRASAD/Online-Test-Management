@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list>number,test_name1,test_name</field_list>
+        <filter/>
+        <glyph>signal</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by>user_name</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4621554ddbe591108c4dc586059619d0</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 13:56:57</sys_created_on>
+        <sys_id>e2211d4ddbe591108c4dc58605961925</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Module Test Table</sys_name>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_update_name>sp_instance_table_e2211d4ddbe591108c4dc58605961925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 15:31:31</sys_updated_on>
+        <table>x_808208_online_te_module_test</table>
+        <title>Module Test Table</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=e2211d4ddbe591108c4dc58605961925"/>
+</record_update>

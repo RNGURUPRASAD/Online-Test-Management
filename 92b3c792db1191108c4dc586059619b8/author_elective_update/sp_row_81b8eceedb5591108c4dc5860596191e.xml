@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Admin Details - Container 1">c0b8e8eedb5591108c4dc58605961931</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 16:35:21</sys_created_on>
+        <sys_id>81b8eceedb5591108c4dc5860596191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_update_name>sp_row_81b8eceedb5591108c4dc5860596191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 16:35:21</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</application>
+        <file_path/>
+        <instance_id>ccdee46ddb139b407d8cf22ebf96195d</instance_id>
+        <instance_name>dev64729</instance_name>
+        <name>sp_row_81b8eceedb5591108c4dc5860596191e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Admin Details - Container 1">c0b8e8eedb5591108c4dc58605961931</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-16 16:35:21</sys_created_on><sys_id>81b8eceedb5591108c4dc5860596191e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package><sys_policy/><sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope><sys_update_name>sp_row_81b8eceedb5591108c4dc5860596191e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-16 16:35:21</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>1802965915</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>5eb3c792db1191108c4dc586059619b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 16:35:21</sys_created_on>
+        <sys_id>49b8eceedb5591108c4dc5860596191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182a782778d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 16:35:21</sys_updated_on>
+        <type>Row</type>
+        <update_guid>81b8ecee475591109777fcdcac8e9d1f</update_guid>
+        <update_guid_history>81b8ecee475591109777fcdcac8e9d1f:1802965915</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">d2b8a422db9591108c4dc58605961953</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 16:35:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>08c1274f3c2b41d88e4611fe5dd2f840</sys_id>
+        <sys_metadata>81b8eceedb5591108c4dc5860596191e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_scope_delete display_value="">8888391559594040a5185d748a0d0900</sys_scope_delete>
+        <sys_update_name>sp_row_81b8eceedb5591108c4dc5860596191e</sys_update_name>
+        <sys_update_version display_value="sp_row_81b8eceedb5591108c4dc5860596191e">49b8eceedb5591108c4dc5860596191f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 16:35:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Test Table">12b988f6db91d1108c4dc58605961902</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test List Tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_808208_online_te_test_list_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_808208_online_te.test_list_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 08:58:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96b988f6db91d1108c4dc58605961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test List Tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_update_name>sys_app_module_96b988f6db91d1108c4dc58605961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 08:58:29</sys_updated_on>
+        <timeline_page/>
+        <title>Test List Tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</application>
+        <file_path/>
+        <instance_id>ccdee46ddb139b407d8cf22ebf96195d</instance_id>
+        <instance_name>dev64729</instance_name>
+        <name>sys_app_module_96b988f6db91d1108c4dc58605961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test Table">12b988f6db91d1108c4dc58605961902</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Test List Tables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_808208_online_te_test_list_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_808208_online_te.test_list_table_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-17 08:58:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>96b988f6db91d1108c4dc58605961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test List Tables</sys_name><sys_overrides/><sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package><sys_policy/><sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope><sys_update_name>sys_app_module_96b988f6db91d1108c4dc58605961905</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-17 08:58:29</sys_updated_on><timeline_page/><title>Test List Tables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-379395680</payload_hash>
+        <record_name>Test List Tables</record_name>
+        <reverted_from/>
+        <source>5eb3c792db1191108c4dc586059619b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 08:58:29</sys_created_on>
+        <sys_id>9ab988f6db91d1108c4dc5860596192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ab068e470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 08:58:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d2b988f6a791d11051b98b7ff6cff12d</update_guid>
+        <update_guid_history>d2b988f6a791d11051b98b7ff6cff12d:-379395680</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test List Tables">b3b6a847db9115108c4dc5860596198f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-18 05:43:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>91f24f5df2d84876a6933c04e370a8f1</sys_id>
+        <sys_metadata>96b988f6db91d1108c4dc58605961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test List Tables</sys_name>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_scope_delete display_value="">8888391559594040a5185d748a0d0900</sys_scope_delete>
+        <sys_update_name>sys_app_module_96b988f6db91d1108c4dc58605961905</sys_update_name>
+        <sys_update_version display_value="sys_app_module_96b988f6db91d1108c4dc58605961905">9ab988f6db91d1108c4dc5860596192d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-18 05:43:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label=" Test Table" max_length="40" name="x_808208_online_te_test_table" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="How Many Data types in SQL?" max_length="40" name="datatypes" type="string">
+            <choice>
+                <element inactive_on_update="false" label="4" sequence="0" value="4"/>
+                <element inactive_on_update="false" label="6" sequence="1" value="6"/>
+                <element inactive_on_update="false" label="8" sequence="2" value="8"/>
+                <element inactive_on_update="false" label="5" sequence="3" value="5"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What is the full form of DBMS?" max_length="40" name="dbms" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Data Base Management System" sequence="0" value="data base management system"/>
+                <element inactive_on_update="false" label="Data Base Manage System" sequence="1" value="data base manage system"/>
+                <element inactive_on_update="false" label="Data Base Managed System" sequence="2" value="data base managed system"/>
+                <element inactive_on_update="false" label="Data Base Mapped System" sequence="3" value="data base mapped system"/>
+            </choice>
+        </element>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="How many Statements are present in Data Query Language?" max_length="40" name="query" type="string">
+            <choice>
+                <element inactive_on_update="false" label="5" sequence="0" value="5"/>
+                <element inactive_on_update="false" label="4" sequence="1" value="4"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="7" sequence="3" value="7"/>
+            </choice>
+        </element>
+        <element label="Result" max_length="40" name="result" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What is the maximum size of CLOB in SQL?" max_length="40" name="size" type="string">
+            <choice>
+                <element inactive_on_update="false" label="7GB" sequence="0" value="7gb"/>
+                <element inactive_on_update="false" label="5GB" sequence="1" value="5gb"/>
+                <element inactive_on_update="false" label="4GB" sequence="2" value="4gb"/>
+                <element inactive_on_update="false" label="2GB" sequence="3" value="2gb"/>
+            </choice>
+        </element>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="encode_utf8=false" label="Test Name" max_length="32" name="test" reference="x_808208_online_te_online_test_management" type="reference"/>
+        <element label="Test Duration" max_length="40" name="test_duration" type="glide_duration"/>
+        <element label="Test ID" max_length="40" name="test_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Name" max_length="40" name="test_name" type="string"/>
+        <element label="User ID" max_length="40" name="user_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="User Name" max_length="40" name="user_name" type="string"/>
+        <index name="index">
+            <element name="test"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

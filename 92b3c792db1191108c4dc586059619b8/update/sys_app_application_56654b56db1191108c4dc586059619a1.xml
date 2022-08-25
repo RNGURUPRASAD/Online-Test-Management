@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>online test </description>
+        <device_type>browser</device_type>
+        <hint>online test </hint>
+        <name/>
+        <order/>
+        <roles>admin,user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 09:21:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56654b56db1191108c4dc586059619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Online Test Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_update_name>sys_app_application_56654b56db1191108c4dc586059619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 09:21:32</sys_updated_on>
+        <title>Online Test Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a0e9fcc5dba591108c4dc58605961932</sp_column>
+        <sp_widget display_value="Approvals">f37aa302cb70020000f8d856634c9cfc</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 12:15:29</sys_created_on>
+        <sys_id>48f9bcc5dba591108c4dc586059619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_update_name>sp_instance_48f9bcc5dba591108c4dc586059619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 12:15:29</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=48f9bcc5dba591108c4dc586059619e7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</application>
+        <file_path/>
+        <instance_id>ccdee46ddb139b407d8cf22ebf96195d</instance_id>
+        <instance_name>dev64729</instance_name>
+        <name>sp_instance_48f9bcc5dba591108c4dc586059619e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">a0e9fcc5dba591108c4dc58605961932</sp_column><sp_widget display_value="Approvals">f37aa302cb70020000f8d856634c9cfc</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-24 12:15:29</sys_created_on><sys_id>48f9bcc5dba591108c4dc586059619e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package><sys_policy/><sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope><sys_update_name>sp_instance_48f9bcc5dba591108c4dc586059619e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-24 12:15:29</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=48f9bcc5dba591108c4dc586059619e7"/></record_update>]]></payload>
+        <payload_hash>-1959494023</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5eb3c792db1191108c4dc586059619b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 12:15:29</sys_created_on>
+        <sys_id>94f9bcc5dba591108c4dc586059619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182cfc76b4e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 12:15:29</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>dcf9bcc593a5911087525d7d5c38f3e9</update_guid>
+        <update_guid_history>dcf9bcc593a5911087525d7d5c38f3e9:-1959494023</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ef6af409dba591108c4dc58605961963</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 12:17:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>37bb23e5568541c68fc39506f699a084</sys_id>
+        <sys_metadata>48f9bcc5dba591108c4dc586059619e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_scope_delete display_value="">8888391559594040a5185d748a0d0900</sys_scope_delete>
+        <sys_update_name>sp_instance_48f9bcc5dba591108c4dc586059619e7</sys_update_name>
+        <sys_update_version display_value="sp_instance_48f9bcc5dba591108c4dc586059619e7">94f9bcc5dba591108c4dc586059619ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 12:17:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

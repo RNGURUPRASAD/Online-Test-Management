@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_id" label="Test ID" language="en" table="x_808208_online_te_module_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_id</element>
+            <help/>
+            <hint/>
+            <label>Test ID</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <plural>Test IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 09:36:49</sys_created_on>
+            <sys_id>46e88f1adb1191108c4dc58605961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test ID</sys_name>
+            <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+            <sys_update_name>sys_documentation_x_808208_online_te_module_test_test_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-16 09:36:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="keywords" table="x_808208_online_te_module_test" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>keywords</element>
+            <name>x_808208_online_te_module_test</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:35</sys_created_on>
+            <sys_id>f416ef28dbe151108c4dc586059619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>keywords</sys_name>
+            <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+            <sys_update_name>sys_choice_x_808208_online_te_module_test_keywords</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keywords</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>43</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b016ef28dbe151108c4dc586059619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:35</sys_updated_on>
+            <value>43</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keywords</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>52</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c16ef28dbe151108c4dc586059619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:35</sys_updated_on>
+            <value>52</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keywords</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>69</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b816ef28dbe151108c4dc586059619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:35</sys_updated_on>
+            <value>69</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keywords</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>32</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3816ef28dbe151108c4dc586059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:35</sys_updated_on>
+            <value>32</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

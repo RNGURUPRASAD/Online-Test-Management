@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 08:58:30</sys_created_on>
+        <sys_id>eab988f6db91d1108c4dc5860596193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_808208_online_te_test_list_table.x_808208_online_te.test_list_table_user</sys_name>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_security_acl display_value="x_808208_online_te_test_list_table">26b988f6db91d1108c4dc5860596193a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eab988f6db91d1108c4dc5860596193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 08:58:30</sys_updated_on>
+        <sys_user_role display_value="x_808208_online_te.test_list_table_user" name="x_808208_online_te.test_list_table_user">d6b948f6db91d1108c4dc586059619ee</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</application>
+        <file_path/>
+        <instance_id>ccdee46ddb139b407d8cf22ebf96195d</instance_id>
+        <instance_name>dev64729</instance_name>
+        <name>sys_security_acl_role_eab988f6db91d1108c4dc5860596193c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-17 08:58:30</sys_created_on><sys_id>eab988f6db91d1108c4dc5860596193c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_808208_online_te_test_list_table.x_808208_online_te.test_list_table_user</sys_name><sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package><sys_policy/><sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope><sys_security_acl display_value="x_808208_online_te_test_list_table">26b988f6db91d1108c4dc5860596193a</sys_security_acl><sys_update_name>sys_security_acl_role_eab988f6db91d1108c4dc5860596193c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-17 08:58:30</sys_updated_on><sys_user_role display_value="x_808208_online_te.test_list_table_user" name="x_808208_online_te.test_list_table_user">d6b948f6db91d1108c4dc586059619ee</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>498262454</payload_hash>
+        <record_name>x_808208_online_te_test_list_table.x_808208_online_te.test_list_table_user</record_name>
+        <reverted_from/>
+        <source>5eb3c792db1191108c4dc586059619b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 08:58:30</sys_created_on>
+        <sys_id>6eb988f6db91d1108c4dc5860596193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ab0690130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 08:58:30</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a6b988f67791d110f24e742ece24313e</update_guid>
+        <update_guid_history>a6b988f67791d110f24e742ece24313e:498262454</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_808208_online_te_test_list_table.x_808208_online_te.test_list_table_user">77b6a847db9115108c4dc5860596197b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-18 05:43:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0ce845cf8a2745588e57c8e6cc2f7c90</sys_id>
+        <sys_metadata>eab988f6db91d1108c4dc5860596193c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_808208_online_te_test_list_table.x_808208_online_te.test_list_table_user</sys_name>
+        <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+        <sys_parent display_value="">26b988f6db91d1108c4dc5860596193a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+        <sys_scope_delete display_value="">8888391559594040a5185d748a0d0900</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_eab988f6db91d1108c4dc5860596193c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_eab988f6db91d1108c4dc5860596193c">6eb988f6db91d1108c4dc5860596193e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-18 05:43:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

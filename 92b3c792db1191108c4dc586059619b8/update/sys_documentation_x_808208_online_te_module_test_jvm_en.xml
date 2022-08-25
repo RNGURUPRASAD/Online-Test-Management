@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="jvm" label="What is the Full Form of JVM in Java?" language="en" table="x_808208_online_te_module_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>jvm</element>
+            <help/>
+            <hint/>
+            <label>What is the Full Form of JVM in Java?</label>
+            <language>en</language>
+            <name>x_808208_online_te_module_test</name>
+            <plural>What is the Full Form of JVM in Java?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-23 11:30:34</sys_created_on>
+            <sys_id>e416ef28dbe151108c4dc58605961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>What is the Full Form of JVM in Java?</sys_name>
+            <sys_package display_value="Online Test Management" source="x_808208_online_te">92b3c792db1191108c4dc586059619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Test Management">92b3c792db1191108c4dc586059619b8</sys_scope>
+            <sys_update_name>sys_documentation_x_808208_online_te_module_test_jvm_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-23 11:30:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

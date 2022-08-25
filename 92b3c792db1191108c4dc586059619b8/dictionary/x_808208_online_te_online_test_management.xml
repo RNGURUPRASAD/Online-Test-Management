@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Online test management" max_length="40" name="x_808208_online_te_online_test_management" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="calendar_date_time"/>
+        <element label="Test Duration" max_length="40" name="test_duration" type="glide_time"/>
+        <element label="Test ID" max_length="40" name="test_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Test Name" max_length="40" name="test_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User Name" max_length="40" name="user_name" type="string"/>
+    </element>
+</database>

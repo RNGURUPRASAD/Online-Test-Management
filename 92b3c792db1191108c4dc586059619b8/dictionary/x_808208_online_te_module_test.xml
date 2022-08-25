@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Module test" max_length="40" name="x_808208_online_te_module_test" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What are the Two forms of Association?" max_length="40" name="association" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Aggregation &amp; Composition" sequence="0" value="aggregation &amp; composition"/>
+                <element inactive_on_update="false" label="Aggregation &amp; Constant" sequence="1" value="aggregation &amp; constant"/>
+                <element inactive_on_update="false" label="Aggregation &amp; Relationship" sequence="2" value="aggregation &amp; relationship"/>
+                <element inactive_on_update="false" label="Aggregation &amp; Identity" sequence="3" value="aggregation &amp; identity"/>
+            </choice>
+        </element>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What is the Full Form of JVM in Java?" max_length="40" name="jvm" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Java Vizualize Machine" sequence="0" value="java vizualize machine"/>
+                <element inactive_on_update="false" label="Java Vertical Machine" sequence="1" value="java vertical machine"/>
+                <element inactive_on_update="false" label="Java Void Machine" sequence="2" value="java void machine"/>
+                <element inactive_on_update="false" label="Java Virtual Machine" sequence="3" value="java virtual machine"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="How many Keywords present in Java?" max_length="40" name="keywords" type="string">
+            <choice>
+                <element inactive_on_update="false" label="43" sequence="0" value="43"/>
+                <element inactive_on_update="false" label="52" sequence="1" value="52"/>
+                <element inactive_on_update="false" label="69" sequence="2" value="69"/>
+                <element inactive_on_update="false" label="32" sequence="3" value="32"/>
+            </choice>
+        </element>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="How Many Types of Polymorphism in Java?" max_length="40" name="polymorphism" type="string">
+            <choice>
+                <element inactive_on_update="false" label="4" sequence="0" value="4"/>
+                <element inactive_on_update="false" label="6" sequence="1" value="6"/>
+                <element inactive_on_update="false" label="2" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="3" value="3"/>
+            </choice>
+        </element>
+        <element choice="1" label="Result" max_length="40" name="result" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Pass" sequence="0" value="pass"/>
+                <element inactive_on_update="false" label="Fail" sequence="1" value="fail"/>
+            </choice>
+        </element>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Test Duration" max_length="40" name="test_duration" type="glide_duration"/>
+        <element label="Test ID" max_length="40" name="test_id" type="integer"/>
+        <element label="Test Name" max_length="40" name="test_name" reference="x_808208_online_te_test_table" type="string"/>
+        <element attributes="encode_utf8=false" display="true" label="Test Name" max_length="32" name="test_name1" reference="x_808208_online_te_online_test_management" type="reference"/>
+        <element label="User ID" max_length="40" name="user_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="User Name" max_length="40" name="user_name" type="string"/>
+        <index name="index">
+            <element name="test_name1"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
